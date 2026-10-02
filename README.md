@@ -104,6 +104,6 @@ Aspiring Data Analyst interested in transforming data into meaningful business i
 
 ## 🔗 Connect With Me
 
-**LinkedIn:** Add your LinkedIn profile link here
+**LinkedIn:** https://www.linkedin.com/in/piyush-bhola-48824435b/?isSelfProfile=true
 
-**GitHub:** Add your GitHub profile link here
+**GitHub:** 
